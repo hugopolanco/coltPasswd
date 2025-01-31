@@ -76,6 +76,7 @@ body {
   text-decoration: none;
   color: #fff;
   background: #312A25;
+  font-weight: bold;
 }
 
 .sidebar-nav li a:active,
